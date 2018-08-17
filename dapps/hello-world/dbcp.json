@@ -1,6 +1,6 @@
 {
   "public": {
-    "author": "evan",
+    "author": "evan GmbH",
     "dapp": {
       "dependencies": {
         "bcc": "^1.0.0"
