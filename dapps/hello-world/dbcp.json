@@ -3,7 +3,7 @@
     "author": "evan GmbH",
     "dapp": {
       "dependencies": {
-        "bcc": "^1.2.2"
+        "bcc": "^1.3.0"
       },
       "entrypoint": "index.js",
       "files": [
