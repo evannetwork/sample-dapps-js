@@ -5,8 +5,8 @@
     "typescript": "^2.9.2"
   },
   "devDependencies": {
-    "@evan.network/dbcp": "^1.4.2",
-    "@evan.network/ui-dapp-browser": "^1.5.1",
+    "@evan.network/dbcp": "^1.4.3",
+    "@evan.network/ui-dapp-browser": "^1.6.0",
     "express": "^4.16.2",
     "gulp": "^3.9.1",
     "gulp-rename": "^1.2.2",
