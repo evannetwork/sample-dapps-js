@@ -6,7 +6,7 @@
   },
   "devDependencies": {
     "@evan.network/dbcp": "^1.4.4",
-    "@evan.network/ui-dapp-browser": "^1.6.0",
+    "@evan.network/ui-dapp-browser": "^1.6.1",
     "express": "^4.16.2",
     "gulp": "^3.9.1",
     "gulp-rename": "^1.2.2",
